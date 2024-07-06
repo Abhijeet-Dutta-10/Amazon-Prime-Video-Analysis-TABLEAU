@@ -31,8 +31,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## CREDITS
 
-- **Dataset:** 
-This dashboard was created by Abhijeet Dutta using data sourced from kaggle. Special thanks to the cricketing community for their passion and dedication to the sport.
+- **Dataset:** This dashboard was created by Abhijeet Dutta using data sourced from kaggle.
    - URL provided here ----> https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 - **Tools:** Tableau for visualization.
 
