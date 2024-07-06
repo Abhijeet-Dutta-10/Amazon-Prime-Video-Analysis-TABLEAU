@@ -14,13 +14,13 @@ In this repository, you'll discover an interactive Tableau dashboard designed to
 
 ## HOW TO USE
 
-**Installation:**
-- Ensure you have Tableau Desktop or Tableau Public installed.
-- Clone this repository to your local machine.
+1. **Installation:**
+  - Ensure you have Tableau Desktop or Tableau Public installed.
+  - Clone this repository to your local machine.
 
-**Usage:**
-- Open Tableau and connect to the provided dataset.
-- Explore different worksheets and dashboards to analyze Amazon Prime Video data.
+2. **Usage:**
+  - Open Tableau and connect to the provided dataset.
+  - Explore different worksheets and dashboards to analyze Amazon Prime Video data.
 
 ## CONTRIBUTING
 
