@@ -1,6 +1,6 @@
 # AMAZON PRIME VIDEO DASHBOARD USING TABLEAU DESKTOP
 
-Welcome to the Amazon Prime Video Dashboard repository! This project utilizes Tableau Desktop and a comprehensive dataset from [source] to create an interactive dashboard for analyzing various aspects of Amazon Prime Video content.
+Welcome to the Amazon Prime Video Dashboard repository! This project utilizes Tableau Desktop and a comprehensive dataset from Kaggle to create an interactive dashboard for analyzing various aspects of Amazon Prime Video content.
 
 ## INTRODUCTION
 
@@ -33,7 +33,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 - **Dataset:** [Specify dataset source]
 - **Tools:** Tableau for visualization.
-- **Contributors:** [List contributors here]
 
 ## FEEDBACK
 
