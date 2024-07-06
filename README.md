@@ -33,6 +33,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 - **Dataset:** This dashboard was created by Abhijeet Dutta using data sourced from kaggle.
    - URL provided here ----> https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+- **Logo:** I have provided the Prime Video Logo in my repository .
+    - Easy Access : 
 - **Tools:** Tableau for visualization.
 
 ## FEEDBACK
